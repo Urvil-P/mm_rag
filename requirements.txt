@@ -1,0 +1,4 @@
+sentence_transformers
+transformers
+git+https://github.com/openai/CLIP.git
+streamlit
